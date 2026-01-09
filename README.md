@@ -19,7 +19,7 @@
   <h3 align="center">Nike Ecommerce w/ Devin AI</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with <a href="https://www.sshami.com" target="_blank"><b>SSHAMI</b>.
     </div>
 </div>
 
